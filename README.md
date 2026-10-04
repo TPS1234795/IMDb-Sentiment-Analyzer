@@ -205,7 +205,7 @@ Although Bi-LSTM requires more computational resources than RNN, LSTM and GRU, i
 
 ## 👩‍💻 Author
 
-OMSRI BEHERA
+TANIPRAVA SAHOO
 
 B.Tech – Computer Science & Engineering (AI & ML)
 
